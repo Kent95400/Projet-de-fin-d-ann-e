@@ -28,18 +28,17 @@
                 <li>contact-security-shield@gmail.com</li>
             </ul>
         </div>
-
+        <div class="newsletter">
+            <p>Inscription à la newsletter</p>
+            <form action="newsletter">
+                <input type="Saisissez  votre adresse mail" />
+                <button>
+                    <img src="./img/SN-logo/logo-newsletter.svg" alt="" />
+                    <p5>S’abonnez</p5>
+                </button>
+            </form>
+        </div>
     </div>
-</div>
-<div class="newsletter">
-    <p>Inscription à la newsletter</p>
-    <form action="newsletter">
-        <input type="Saisissez  votre adresse mail" />
-        <button>
-            <img src="./img/SN-logo/logo-newsletter.svg" alt="" />
-            <p5>S’abonnez</p5>
-        </button>
-    </form>
 </div>
 <footer>
     <a href="#" class="mentions-legals">Mentions légales</a>
