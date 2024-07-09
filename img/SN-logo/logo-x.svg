@@ -1,0 +1,17 @@
+<svg width="53" height="52" viewBox="0 0 53 52" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="line-md:twitter-x-alt" filter="url(#filter0_d_94_24)">
+<path id="Vector" d="M4.9585 3.91663H9.85433L39.2293 43.0833H34.3335L4.9585 3.91663ZM13.771 3.91663H18.6668L48.0418 43.0833H43.146L13.771 3.91663ZM8.87516 3.91663H18.6668V7.83329H8.87516V3.91663ZM34.3335 39.1666H44.1252V43.0833H34.3335V39.1666ZM39.2293 3.91663H46.0835L12.7918 43.0833H5.93766L39.2293 3.91663Z" fill="black"/>
+</g>
+<defs>
+<filter id="filter0_d_94_24" x="-1" y="0" width="55" height="55" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_94_24"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_94_24" result="shape"/>
+</filter>
+</defs>
+</svg>

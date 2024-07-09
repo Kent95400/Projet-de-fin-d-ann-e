@@ -1,0 +1,21 @@
+<svg width="55" height="55" viewBox="0 0 55 55" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="logos:facebook" clip-path="url(#clip0_94_26)" filter="url(#filter0_d_94_26)">
+<path id="Vector" d="M51 23.5C51 10.5214 40.4786 0 27.5 0C14.5214 0 4 10.5214 4 23.5C4 35.2294 12.5937 44.9516 23.8281 46.7145V30.293H17.8613V23.5H23.8281V18.3227C23.8281 12.433 27.3366 9.17969 32.7045 9.17969C35.2756 9.17969 37.9648 9.63867 37.9648 9.63867V15.4219H35.0016C32.0823 15.4219 31.1719 17.2334 31.1719 19.0919V23.5H37.6895L36.6476 30.293H31.1719V46.7145C42.4063 44.9516 51 35.2296 51 23.5Z" fill="#1877F2"/>
+<path id="Vector_2" d="M36.6476 30.293L37.6895 23.5H31.1719V19.0919C31.1719 17.2332 32.0823 15.4219 35.0016 15.4219H37.9648V9.63867C37.9648 9.63867 35.2756 9.17969 32.7043 9.17969C27.3366 9.17969 23.8281 12.433 23.8281 18.3227V23.5H17.8613V30.293H23.8281V46.7145C25.0428 46.9048 26.2705 47.0003 27.5 47C28.7295 47.0003 29.9572 46.9048 31.1719 46.7145V30.293H36.6476Z" fill="white"/>
+</g>
+<defs>
+<filter id="filter0_d_94_26" x="0" y="0" width="55" height="55" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_94_26"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_94_26" result="shape"/>
+</filter>
+<clipPath id="clip0_94_26">
+<rect width="47" height="47" fill="white" transform="translate(4)"/>
+</clipPath>
+</defs>
+</svg>

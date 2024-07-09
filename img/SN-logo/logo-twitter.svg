@@ -1,0 +1,22 @@
+<svg width="58" height="47" viewBox="0 0 58 47" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="logos:twitter" clip-path="url(#clip0_94_22)">
+<g id="Vector" filter="url(#filter0_d_94_22)">
+<path d="M57.9973 5.72317C55.8256 6.67831 53.5222 7.30518 51.1635 7.58293C53.6203 6.12121 55.5067 3.80651 56.395 1.04858C54.0594 2.4243 51.5042 3.39362 48.8396 3.91468C46.6691 1.61933 43.5771 0.184814 40.1547 0.184814C33.5837 0.184814 28.2561 5.4731 28.2561 11.9955C28.2561 12.9214 28.3615 13.8227 28.5642 14.6874C18.6757 14.1946 9.90863 9.49261 4.04011 2.34681C3.01614 4.09121 2.4294 6.12031 2.4294 8.28456C2.4294 12.3823 4.53011 15.9973 7.72252 18.1154C5.83304 18.0568 3.98513 17.5502 2.33312 16.638C2.33252 16.6874 2.33229 16.737 2.33244 16.7866C2.33244 22.5091 6.43373 27.2829 11.8766 28.3679C10.1245 28.8409 8.28668 28.9101 6.50351 28.5703C8.01748 33.2627 12.4117 36.6773 17.618 36.7729C13.546 39.9405 8.41551 41.8288 2.84125 41.8288C1.88072 41.8288 0.933784 41.7728 0.00292969 41.6638C5.26841 45.0149 11.5225 46.9703 18.2417 46.9703C40.1271 46.9703 52.0945 28.9729 52.0945 13.3653C52.0945 12.853 52.0831 12.3436 52.0601 11.8372C54.3893 10.1655 56.3998 8.09508 57.9973 5.72317Z" fill="#55ACEE"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_94_22" x="-3.99707" y="0.184814" width="65.9941" height="54.7854" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_94_22"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_94_22" result="shape"/>
+</filter>
+<clipPath id="clip0_94_22">
+<rect width="58" height="47" fill="white"/>
+</clipPath>
+</defs>
+</svg>
